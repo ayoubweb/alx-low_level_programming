@@ -2,7 +2,7 @@
 /**
  * main - main block
  * Return: 0
-  */
+ */
 int main(void)
 {
 	puts("\"Progrmming is like building a multilingual puzzle");
