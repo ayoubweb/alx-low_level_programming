@@ -3,9 +3,9 @@
 #include <time.h>
 
 /**
- *main - Print the last digit of randum number
+ * main - Print the last digit of randum number
  *
- *Return: Always 0
+ * Return: Always 0
  */
 int main(void)
 {
@@ -21,4 +21,6 @@ int main(void)
 		printf("last digit of %d is %d and is greater than 5\n", n, last);
 	else if (last < 6)
 		printf("last dijit of %d is %d and is less than 6 and not 0\n", n, last);
+
+	return (0);
 }
