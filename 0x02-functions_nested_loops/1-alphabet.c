@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_alph - funct to print a b c
+ * print_alphabet - funct to print a b c
  * Return: 0
  */
 void print_alphabet(void)
