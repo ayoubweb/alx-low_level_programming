@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _islower - func
- *  @ch:  is the int 
+ * @ch:is the int 
  * Return: 0
  */
 int _islower(int ch)
