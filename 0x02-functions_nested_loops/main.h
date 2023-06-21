@@ -14,3 +14,4 @@ void print_to_98(int nu);
 void print_times_table(int nu);
 int main(void);
 int main(void);
+int main(void);
