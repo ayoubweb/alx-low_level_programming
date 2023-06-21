@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * main - 
- * Description: comp
+ * main
+ * Description: compil
  * Return: 0
  */
 int main(void)
