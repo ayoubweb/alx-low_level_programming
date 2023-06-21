@@ -10,12 +10,12 @@ void print_times_table(int nu)
 
 int a = 0, rep, d;
 
-if (n < 0 || nu > 15)
+if (nu < 0 || nu > 15)
 	return;
 
 while (a <= nu)
 {
-	for (d = 0; d <= n; d++)
+	for (d = 0; d <= nu; d++)
 	{
 		rep = a * d;
 		if (d == 0)
@@ -38,7 +38,7 @@ while (a <= nu)
 			_putchar('0' + (rep - 100) / 10);
 			_putchar('0' + rep % 10);
 		}
-		if (d < n)
+		if (d < nu)
 		{
 			_putchar(',');
 			_putchar(' ');
