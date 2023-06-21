@@ -12,3 +12,4 @@ int add(int nu1, int nu2);
 void print_to_98(int nu);
 void print_to_98(int nu);
 void print_times_table(int nu);
+int main(void);
