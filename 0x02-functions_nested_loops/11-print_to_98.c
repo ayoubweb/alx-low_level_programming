@@ -1,21 +1,25 @@
+#include "main.h"
 #include <stdio.h>
 /**
- * print_to_98 - Pr 98
- * @nu: The nu
+ * print_to_98 - pr
+ * @nu : number
+ * Return:0 or 1
  */
+
 void print_to_98(int nu)
 {
-	if (nu >= 98)
-	{
-		while (nu > 98)
-			printf("%d, ", nu--);
-		printf("%d\nu", nu);
-	}
 
-	else
-	{
-		while (nu < 98)
-			printf("%d, ", nu++);
-		printf("%d\nu", nu);
-	}
+while (nu < 98)
+{
+	printf("%i, ", nu);
+	nu++;
+}
+while (nu > 98)
+{
+	printf("%i, ", nu);
+	nu--;
+}
+
+printf("98");
+putchar('\n');
 }
