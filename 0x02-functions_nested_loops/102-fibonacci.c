@@ -1,9 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Prints first 50 
- *        separated by a comma followed by a space.
- *
+ * main - Print
  * Return: Always 0.
  */
 int main(void)
