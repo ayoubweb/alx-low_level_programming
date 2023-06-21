@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * print_to_98 - Prto 98
+ * print_to_98 - Pr 98
  * @nu: The nu
  */
 void print_to_98(int nu)
