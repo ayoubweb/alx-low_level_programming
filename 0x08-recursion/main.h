@@ -1,7 +1,7 @@
 int _putchar(char c);
-void _puts_recursion(char *s);
-void _print_rev_recursion(char *s);
-int _strlen_recursion(char *s);
+void _puts_recursion(char *t);
+void _print_rev_recursion(char *t);
+int _strlen_recursion(char *t);
 int factorial(int r);
 int _pow_recursion(int x, int y);
 int square(int n, int val);
