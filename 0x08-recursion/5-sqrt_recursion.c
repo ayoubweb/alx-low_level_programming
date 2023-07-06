@@ -11,12 +11,12 @@ int _sqrt_recursion(int m)
 
 /**
  * square - find square root
- * @n: int to find square root
+ * @m: int to find square root
  * @v: square root
  * Return: int
  */
 
-int square(int n, int v)
+int square(int m, int v)
 {
 
 	if (v * v == m)
