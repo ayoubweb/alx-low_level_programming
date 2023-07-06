@@ -3,7 +3,7 @@ void _puts_recursion(char *t);
 void _print_rev_recursion(char *t);
 int _strlen_recursion(char *t);
 int factorial(int r);
-int _pow_recursion(int x, int y);
+int _pow_recursion(int a, int b);
 int square(int n, int val);
 int _sqrt_recursion(int n);
 int check_prime(int n, int resp);
