@@ -5,7 +5,7 @@ int _strlen_recursion(char *t);
 int factorial(int r);
 int _pow_recursion(int a, int b);
 int square(int m, int v);
-int _sqrt_recursion(int n);
+int _sqrt_recursion(int num);
 int check_prime(int num, int rsp);
 int is_prime_number(int n);
 int last_index(char *s);
