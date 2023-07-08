@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * _isalpha - check th code for Holberton Schol student.
  *
@@ -6,6 +7,7 @@
  *
  * Return: Always 0.
  */
+ 
 int _isalpha(int c)
 {
 
