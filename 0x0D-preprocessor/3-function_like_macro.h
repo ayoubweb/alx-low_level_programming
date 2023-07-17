@@ -1,13 +1,6 @@
-#ifndef FUNCTION_LIKE_MACRO_H
-#define FUNCTION_LIKE_MACRO_H
+#ifndef FILE_ABS
+#define FILE_ABS
 
-/*
- * File: 3-function_like_macro.h
- * Auth: (cm-amos)Amos Mongela
- * Desc: Header file that defines a function-like macro ABS(x)
- *       that comptes the absolute value of a number x.
- */
-
-#define ABS(x) ((x) < 0 ? (-x) : (x))
+#define ABS(X) ((X) < 0 ? -1 * (X) : (X))
 
 #endif
