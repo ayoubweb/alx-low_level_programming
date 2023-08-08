@@ -2,8 +2,10 @@
 #include <stdlib.h>
 
 /**
+ * read_textfile - fhfjh
  * @filename: A pointer to the name of the file.
  * @letters: The number of letters the
+ * Return: fhg
  */
 ssize_t read_textfile(const char *filename, size_t letters)
 {
